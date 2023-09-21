@@ -8,7 +8,7 @@ import javafx.stage.Screen;
 import javafx.stage.Stage;
 
 
-public class Main extends Application {
+public class PantallaFX extends Application {
 	
 	public static void main(String[] args) {
         Application.launch(args);

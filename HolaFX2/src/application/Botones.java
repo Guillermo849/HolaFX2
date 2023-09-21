@@ -10,7 +10,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 
 
-public class Main extends Application {
+public class Botones extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		try {
